@@ -41,14 +41,11 @@ features = [
   'console',
   'CssStyleDeclaration',
   'Document',
-  'Element',
-  'EventTarget',
   'HtmlCanvasElement',
   'HtmlElement',
   'MouseEvent',
-  'Node',
   'Window',
-  ]
+]
 
 # The `console_error_panic_hook` crate provides better debugging of panics by
 # logging them with `console.error`. This is great for development, but requires
